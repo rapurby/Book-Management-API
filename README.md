@@ -22,7 +22,7 @@ A simple RESTful API for book management built with Laravel.
 ## Requirements
 - PHP 8.1+
 - Composer
-- MySQL/PostgreSQL
+- MySQL
 
 ## Installation
 
